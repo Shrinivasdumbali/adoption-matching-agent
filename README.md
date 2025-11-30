@@ -59,7 +59,7 @@ Want to run this on your machine? Here is how:
 3.  **Add your API Key:**
     Create a `.env` file and add your Google API key:
     ```
-    GOOGLE_API_KEY=your_key_here
+    GOOGLE_API_KEY=*****************************************
     ```
 
 4.  **Run the Agent:**
