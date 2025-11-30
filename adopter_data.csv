@@ -1,0 +1,8 @@
+adopter_id,name,home_type,has_kids,has_other_pets,lifestyle,commitment_level,experience_level,preferences
+1,John Smith,house,no,no,active,high,experienced,large_dog;energetic
+2,Sarah Johnson,apartment,yes,no,family-focused,high,beginner,calm_dog;good_with_kids
+3,Mike Chen,house,no,yes,relaxed,medium,beginner,cat;independent
+4,Emma Davis,apartment,yes,yes,busy,medium,experienced,small_dog;low_energy
+5,Robert Wilson,house,no,no,outdoor-person,high,experienced,active_dog;high_energy
+6,Lisa Anderson,apartment,no,no,quiet,low,beginner,cat;calm
+7,James Taylor,house,yes,no,family-person,high,beginner,dog;good_with_kids;friendly

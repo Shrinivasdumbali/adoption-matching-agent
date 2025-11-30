@@ -1,0 +1,9 @@
+animal_id,name,species,breed,age_years,energy_level,good_with_kids,good_with_dogs,special_needs,behavioral_traits
+1,Max,Dog,Golden Retriever,3,high,yes,yes,no,friendly;playful;loyal
+2,Bella,Dog,Labrador Mix,5,medium,yes,yes,no,calm;protective;affectionate
+3,Charlie,Cat,Persian,2,low,no,no,sensitive,quiet;independent;gentle
+4,Daisy,Dog,Beagle,4,high,yes,no,no,energetic;curious;stubborn
+5,Luna,Dog,German Shepherd,6,high,yes,yes,no,intelligent;protective;obedient
+6,Mittens,Cat,Tabby Mix,1,medium,no,no,no,playful;curious;social
+7,Rocky,Dog,Pit Bull Mix,7,medium,yes,no,yes,gentle;loyal;needs_training
+8,Shadow,Cat,Black Cat,3,low,no,no,no,shy;independent;cautious
